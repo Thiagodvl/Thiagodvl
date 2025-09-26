@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Thiago Donato
+# 🧑‍💻 Thiago Donato
 
 **`Desenvolvedor FullStack`**
 
